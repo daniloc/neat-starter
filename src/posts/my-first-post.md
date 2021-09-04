@@ -10,9 +10,13 @@ tags:
   - center
   - right
 ---
+
+
 # This is a Heading h1
 
 ## This is a Heading h2
+
+![](/static/img/img_0300.gif)
 
 ###### This is a Heading h6
 
